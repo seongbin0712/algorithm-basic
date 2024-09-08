@@ -17,6 +17,3 @@ def find_max_two(arr):
 arr = [[3, -1, 5, 0, 7, 4, 9, 1], [7]]
 for a in arr:
     print(f"{a}에서 가장 큰 두 값: {find_max_two(a)}")
-    
-
-# 끝
