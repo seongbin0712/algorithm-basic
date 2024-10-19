@@ -13,3 +13,4 @@ def enqueue(self, data):
     self.front = self.rear = Node(data)
   else:
     node = Node(data)
+    
